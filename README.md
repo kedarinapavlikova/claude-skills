@@ -19,6 +19,8 @@ Think of it as a standing briefing you give Claude once, so you never have to re
 | Skill | What it does |
 |---|---|
 | [prompt-efficiency-coach](./prompt-efficiency-coach.skill) | Passively monitors your chat for token waste and surfaces a one-line nudge when it spots something. Also does on-demand workflow reviews. |
+| [morning-brief](./morning-brief.skill) | Daily briefing pulled from your connected tools: calendar, email, Jira, and more. Onboards itself on first run. |
+
 
 
 > To install: click the skill link → **Raw** → Save As → upload to Claude via Settings → Skills.
