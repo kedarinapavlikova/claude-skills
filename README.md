@@ -1,4 +1,4 @@
-# Claude Skills — by Keddy Pavlikova
+# Claude Skills — by Keddy Pavlik
 
 A collection of shareable Claude skills for teams and individuals who want to get more out of AI: faster results, better prompts, fewer interruptions.
 
@@ -44,5 +44,5 @@ Got a skill to share? Open a PR. Keep it:
 
 ## Author
 
-Keddy Pavlikova — Senior PM, Certified Scrum PO, facilitator, and recovering hospitality professional.  
+Keddy Pavlik — Senior PM, Certified Scrum PO, facilitator, and recovering hospitality professional.  
 [LinkedIn](https://www.linkedin.com/in/keddypavlikova) · [GitHub](https://github.com/kedarinapavlikova)
