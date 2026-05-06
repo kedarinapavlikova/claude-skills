@@ -1,8 +1,11 @@
-# Claude Skills — by Keddy Pavlik
+# Claude Skills — by Keddy Pavlik 🩵 👩‍💻
+
+<img width="480" height="342" alt="skills " src="https://github.com/user-attachments/assets/7f055682-bb1c-44a8-a2d4-cbb60f538155" />
+
 
 A collection of shareable Claude skills for teams and individuals who want to get more out of AI: faster results, better prompts, fewer interruptions.
 
-These skills work with [Cowork](https://www.anthropic.com/claude) and Claude.ai. Install one and Claude will automatically apply it to your conversations.
+These skills work with [Cowork](https://www.anthropic.com/claude) and Claude.ai. Install one and Claude will automatically apply it to your conversations!
 
 ---
 
