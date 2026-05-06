@@ -18,7 +18,7 @@ Think of it as a standing briefing you give Claude once, so you never have to re
 
 | Skill | What it does |
 |---|---|
-| [prompt-efficiency-coach](./prompt-efficiency-coach/) | Passively monitors your chat for token waste and surfaces a one-line nudge when it spots something. Also does on-demand workflow reviews. |
+| [prompt-efficiency-coach](./prompt-efficiency-coach.skill) | Passively monitors your chat for token waste and surfaces a one-line nudge when it spots something. Also does on-demand workflow reviews. |
 
 More coming — contributions welcome.
 
