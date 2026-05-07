@@ -24,6 +24,7 @@ Think of it as a standing briefing you give Claude once, so you never have to re
 | [prompt-efficiency-coach](./prompt-efficiency-coach.skill) | Passively monitors your chat for token waste and surfaces a one-line nudge when it spots something. Also does on-demand workflow reviews. |
 | [morning-brief](./morning-brief.skill) | Daily briefing pulled from your connected tools: calendar, email, Jira, and more. Onboards itself on first run. |
 | [voice-setup](./voice-setup.skill) | Interviews you about your writing style, saves it to memory, and outputs a portable voice prompt you can use anywhere. |
+| [profile-builder](./profile-builder.skill) | Interviews you and writes a clean, paste-ready Claude profile (Settings → Profile). Also audits and cleans up existing profiles. | 
 
 
 > To install: click the skill link → **Raw** → Save As → upload to Claude via Settings → Skills.
@@ -53,4 +54,4 @@ Got a skill to share? Open a PR. Keep it:
 ## Author
 
 Keddy Pavlik — Senior PM, Certified Scrum PO, facilitator, and recovering hospitality professional.  
-[LinkedIn]([https://www.linkedin.com/in/pavlikkeddy/) · [GitHub](https://github.com/kedarinapavlikova)
+[[LinkedIn]([https://www.linkedin.com/in/pavlikkeddy/)]· [GitHub](https://github.com/kedarinapavlikova)
