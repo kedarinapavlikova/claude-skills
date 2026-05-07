@@ -54,4 +54,4 @@ Got a skill to share? Open a PR. Keep it:
 ## Author
 
 Keddy Pavlik — Senior PM, Certified Scrum PO, facilitator, and recovering hospitality professional.  
-[[LinkedIn]([https://www.linkedin.com/in/pavlikkeddy/)]· [GitHub](https://github.com/kedarinapavlikova)
+[[LinkedIn]([https://www.linkedin.com/in/pavlikkeddy/)· [GitHub](https://github.com/kedarinapavlikova)
